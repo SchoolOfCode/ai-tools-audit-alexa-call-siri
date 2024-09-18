@@ -28,12 +28,10 @@ Example Metrics to Consider:
  Avg HR Manager in US earns ~$80K according to https://www.indeed.com/career/human-resources-manager/salaries 
  up to ~$120k according to https://www.salary.com/research/salary/benchmark/human-resources-manager-salary 
  So an automated solution that probably adds more value than a single manual HR manager is excellent value for money.
- • Time efficiency.
- • Productivity gains.
+  ![alt text](image.png)
 
 
 ## Evaluation
  • Does the benefit outweigh the risk - Funadmentally yes. The current system isn't up to scratch for a company this size, and while there are likely to be teething pains and a lot of upfront time and effort invested into the system, in the long run it will be of great benefit to the company.
 
 
- ![alt text](image.png)
